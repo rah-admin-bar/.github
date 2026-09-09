@@ -1,7 +1,7 @@
 # RAH ADMIN BAR
 Es una aplicación PWA `(Progresive Web  App)`.
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Objetivo del Producto
 **Automatizar y optimizar la gestión de pedidos internos** en bares y restaurantes mediante una solución digital accesible (PWA). El sistema busca eliminar el uso de papel, conectar en tiempo real al personal de salón (meseros) con las áreas de preparación (barra y cocina), y agilizar los tiempos de servicio para mejorar la experiencia del cliente final.
 
 ## 👁️ Visión
